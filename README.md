@@ -1,6 +1,7 @@
 <!-- ix-docs-ignore -->
 <!-- Badges -->
 ![imgix logo](https://assets.imgix.net/sdk-imgix-logo.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fimgix%2Fimgix-go.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fimgix%2Fimgix-go?ref=badge_shield)
 
 `imgix-go` is a client library for generating image URLs with [imgix](https://www.imgix.com/).
 
@@ -318,3 +319,7 @@ You can go test this code with:
 ``` bash
 $ go test
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fimgix%2Fimgix-go.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fimgix%2Fimgix-go?ref=badge_large)
